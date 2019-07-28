@@ -1,0 +1,177 @@
+.abt-us{
+    margin:0px;
+    padding:0px;
+}
+.abt-us h1{
+    text-align: left;
+   font-style: normal;
+   font-family: PT sans-serif;
+    transform:uppercase;
+    padding: 20px 0px  0px 0px;
+
+}
+.abt-us p{
+    font-size: 15px;
+    letter-spacing:1px;
+    font-family: PT sans-serif;
+    padding: 0px;
+}
+.footer{
+    background-image:url("images/footer-bck.png");
+    background-size: 100% 100%;
+    margin-top:30px;
+    padding: 30px 0px 1px 0px;
+
+
+}
+.footer ul{
+    list-style: none;
+    margin:  0;
+    padding: 0;
+    margin-top: 20px;
+
+}
+.f-logo ul li{
+    display: inline;
+    padding: 0 5px;
+}
+
+.f-logo ul li:first-child{
+    margin-left:0px;
+}
+.f-logo ul li a{
+    text-decoration:none;
+    color:#ffff;
+    font-size: 20xp;
+
+}
+.f-logo ul li a:hover{
+  color:#dea678;
+}
+.f-menu{
+    padding: 30px 0px 0px 0px;
+}
+.f-menu h2{
+    color:#fff;
+    font-family: PT sans-serif;
+    text-transform: uppercase;
+}
+.f-menu ul{
+    list-style: none;
+}
+
+.f-menu ul li{
+    padding:10px 0;
+}
+.f-menu ul li a{
+    text-decoration:none;
+    color: #fff;
+    font-size:20px;
+    font-family: PT sans-serif;
+}
+.f-menu ul li a i{
+    padding-right: 10px;
+}
+.f-menu ul li a:hover{
+    color:#dea678;
+}
+
+.f-contact {
+    padding: 30px 0px 30px;
+
+}
+
+.f-contact h2{
+    color:#fff;
+    text-transform: uppercase;
+    font-size:30px;
+    font-family: PT sans-serif;
+
+}
+.f-contact ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+
+
+}
+
+.f-contact h1{
+   text-transform: uppercase;
+
+
+}
+.f-contact ul li{
+    
+   font-size: 16px;
+    padding:10px 0px;
+    color:#fff;
+
+}
+
+.f-contact ul li a{
+    text-decoration:none;
+    color:#fff;
+
+}
+.f-contact ul li i{
+    padding-right: 10px;
+    color: #dea678;
+}
+
+.f-news{
+    padding: 20px 0px 0px 0px;
+}
+.f-news h2 {
+    font-family: PT sans-serif;
+    padding: 10px 0px;
+    color:#fff;
+    text-transform: uppercase;
+
+}
+.f-news p{
+    font-family: PT sans-serif;
+color: #fff;
+padding: 0px 0px 5px 0px;
+font-size: 15px;
+}
+
+.f-news input{
+ height: 40px;
+ width: 240px;
+ border-radius:0px;
+}
+
+.f-news #inpt  #btn{
+    background:#dea678;
+    width:40px;
+    
+    
+}
+
+.f-news #inpt  #btn i{
+    padding: 0px;
+    margin: 0px;
+   color:#fff;
+
+    
+}
+.l-sec{
+    margin-top:163px;
+}
+.l-sec p{
+    color:#fff;
+    text-align: center;
+    font-family: PT sans-serif;
+    font-size: 14px;
+    margin-top: 10px;
+margin-bottom: 0px;
+}
+.l-sec p span{
+    color:#dea678;
+}
+.l-sec p  a{
+    text-decoration: none;
+    color:#dea678;
+}
+

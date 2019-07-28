@@ -1,0 +1,17 @@
+.content{
+
+}
+.content h1{
+    font-family: PT sans-serif;
+}
+.content h2{
+   
+    margin-top: -20px;
+    font-family: PT sans-serif;
+}
+#container{
+    margin-left:150px;
+}
+.content ol{
+    margin-left: -23px;
+}
